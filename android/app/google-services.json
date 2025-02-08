@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774011643451",
+    "project_id": "ess-portal-d4c51",
+    "storage_bucket": "ess-portal-d4c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774011643451:android:670b06c3a0e0f7e2a29e1e",
+        "android_client_info": {
+          "package_name": "com.premiergroup.ess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774011643451-0gteb5kqp43j6kfe6did7qg2ths7sgff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2SqHTJ2HsDklYeVN0ei4KFv2xKUMQHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774011643451-0gteb5kqp43j6kfe6did7qg2ths7sgff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
